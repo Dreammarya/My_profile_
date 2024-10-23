@@ -15,6 +15,6 @@ I'm always excited to meet fellow developers, engineers, and tech enthusiasts! W
 - **Other Tools:** Microsoft Office, Visual Studio
 
 ## ☕ Support My Work
-If you like what I do and want to support my work, feel free to [buy me a coffee](#)! Your support helps me keep working on exciting projects and continue learning new technologies.
+If you like what I do and want to support my work, feel free to [buy me a coffee via PayPal](https://www.paypal.me/marialazar3). Your support helps me keep working on exciting projects and continue learning new technologies.
 
 Thanks for visiting my profile! 🌟
